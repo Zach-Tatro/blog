@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: '/blog/images/pages/mexicocat.jpeg'
+image: '/images/pages/mexicocat.jpg'
 ---
 
 Hello there, I'm Zach Tatro. Welcome to my GitHub blog!
